@@ -10,5 +10,12 @@
             "title": "Sample Tile",
             "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings"
         }
+    ],
+    "resource": [
+        {
+            "id": "1",
+            "title": "Sample resource Tile",
+            "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings"
+          }
     ]
 }
